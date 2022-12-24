@@ -1,0 +1,419 @@
+## Bem-vinde!
+
+### Passei na faculdade, e agora?
+
+Bom, parabéns novamente, bixe! Estamos muito felizes de recebê-le no Departamento da Computação :)  
+  
+Muitos de vocês estão entrando pela primeira vez numa universidade e imaginamos que a ansiedade de conhecer a faculdade seja grande. Por isso gostaríamos de conversar um pouco sobre essa nova fase.  
+  
+O início da graduação é, geralmente, um momento de transição para todos. Até para quem entrou no curso pelo sistema de transferência interna ou externa, os próximos meses da sua vida trarão momentos desafiadores e compensatórios. Para os estudantes que finalizaram o Ensino Médio recentemente e estão indo morar fora as diferenças socioculturais serão destacáveis. Imagine sair da sua cidade(ou até de outro estado), da casa de seus pais, e se mudar para uma cidade universitária que recebe estudantes de todo o país(e de outros lugares do mundo). A Ufscar possui no total 64 cursos de graduação e cerca de 3 mil estudantes entram pelo Sisu a cada ano, ou seja, é muita gente! Sem contar os estudantes da pós-graduação e da USP. O resultado disso é a presença de pessoas completamente diferentes e que convivem em espaços comuns.
+
+## Nova vida
+
+Mudar de ciclo social é desafiador, mas proporciona novas conexões com pessoas incríveis, possibilitando conhecer partes de si mesmo que não haviam sido observadas antes. Você poderá participar das festas universitárias, ficar em casa em sua companhia ou com seus amigos, ou fazer todas essas opções. Experimentar coisas novas faz parte de entender do que gostamos ou não, mas não podemos deixar de respeitar nossos limites. Você NÃO é obrigado a beber se não quiser ou a realizar nenhum trote que seus veteranos mandarem. Você não é obrigado a ficar com ninguém, nem fazer tais ações para não se sentir excluído de algum grupo.  
+  
+Podemos mudar nossos valores pessoais, mas não por obrigação externa, a não ser em casos que suas ações estejam prejudicando diretamente outra pessoa. Um bom lembrete é de que o seu direito termina onde começa o direito do outro. Tentar forçar outra pessoa a fazer algo que você quer, como beber algo ou se relacionar com você, é injustificável e caso seja cometido um crime você será punido.  
+  
+Junto com as experiências gostosas vêm responsabilidades da vida universitária. O estudo na universidade é muito diferente do ensino médio. É necessário que aceitemos isso para poder entender melhor como (sobre)viver.  
+  
+Na faculdade, o professor será seu guia. Ele irá prover algum material didático e as aulas serão somente uma parte do aprendizado. Boa parte da consolidação da matéria será feita por você ao revisar, realizar exercícios e buscar por si próprio.  
+  
+Além dos estudos, demandará bastante responsabilidade caso você esteja indo morar sozinho ou com novas pessoas. Fazer as atividades diárias de casa, alimentar-se regularmente, tentar ter uma rotina de descanso e exercícios físicos é importante para manter sua saúde física e mental. Esses processos levam tempo, então tenha paciência com você!  
+  
+E por último mas não menos importante, caso você não esteja se sentindo bem consigo mesmo, procure ajuda. Se a apatia, cansaço e isolamento estão fazendo parte do seu dia a dia, não exite em procurar ajuda profissional. O Departamento da Computação realiza plantões psicológicos frequentemente e há serviços psicológicos de graça ou com preços sociais(valores menores para incluir mais pessoas). Busque esses canais e converse com pessoas em que você confia, e não desista, muitos de nós já passamos ou enfrentamos atualmente essas questões. Lembre-se que você não está sozinho ;)
+
+## Siglas importantes
+
+Siglas fazem parte do dialeto comum do universitario na UFSCar, e inserimos um glossário aqui com as siglas mais frequentes que você vai ouvir!
+
+*   AT Prédio de aula teórica
+*   AVA Ambiente Virtual de Aprendizagem
+*   BCo Biblioteca Comunitária (São Carlos)
+*   CCET Centro de Ciências Exatas e Tecnológicas
+*   CA Centro Acadêmico
+*   CACic Centro Acadêmico de Ciencia da Computação
+*   CAENC Centro Acadêmico de Engenharia da Computação
+*   CATI Empresa Júnior do Departamento de Computação da UFSCar.
+*   DC Departamento de Computação
+*   DM Departamento de Matemática
+*   DF Departamento de Fisica
+*   DCE Diretório Central dos Estudantes
+*   DeAE Departamento de Assistência ao Estudante
+*   DeAS Departamento de Atenção à Saúde
+*   DIGRA Divisão de Gestão e Registro Acadêmico
+*   ENPE Ensino Não Presencial Emergencial
+*   IRA Índice de Rendimento Acadêmico.
+*   LIG Laboratório de Informática de Graduação
+*   NuLEEn Núcleo de Laboratórios de Ensino à Engenharia
+*   PAC Processo de Avaliação Complementar
+*   PET Programa de Educação Tutorial
+*   PPC Projeto Pedagógico Curricular
+*   ProACE Pró-Reitoria de Assuntos Comunitários e Estudantis
+*   ProGrad Pró-Reitoria de Graduação
+*   PU Prefeitura Universitaria
+*   RA Registro Acadêmico, é o seu Número UFSCar
+*   RU Restaurante Universitário
+*   SAGUI Sistema de Apoio à Gestão Universitária Integrada
+*   SAADE Secretaria geral de Ações Afirmativas, Diversidade e Equidade
+    
+*   SECOMP Semana da Computação UFSCar
+*   Sin Secretaria de Informatica
+*   SIGA Sistema Integrado de Gestão Acadêmica
+*   USE Unidade Saúde Escola
+
+## Retorno ao presencial
+
+### Em qual fase estamos
+
+Existem 6 fases no plano de retomada, até março de 2022 estávamos na 2ª fase! Nessa fase já pode ocorrer o ensino prático presencial (semestre suplementar) e pesquisas de laboratório que envolvam somente a comunidade interna da UFSCar. Ainda não voltaram todas as aulas presenciais, mas está garantido que o semestre 2022/1 será sim presencial (a partir de 30 de maio).
+
+### Passaporte de vacina
+
+A comprovação de esquema vacinal completo será obrigatório para todos os membros da comunidade UFSCar que realizarão atividades presenciais! Até o momento, sabemos que as coordenadorias serão responsáveis por receber os comprovantes. A comprovação pode ser feita com o documento original ou com a versão digital obtida pelo app do PoupaTempo ou ConecteSUS.
+
+### Fornecimento de máscaras
+
+A Universidade fornecerá máscaras para os estudantes (N95, KN95 e PFF2) que serão solicitadas e distribuídas pelo representante de cada unidade. A distribuição será feita pelo departamento responsável pela oferta da atividade, no local de realização da mesma.
+
+### BCO
+
+A biblioteca retornou com o serviço de empréstimo e devolução de livros pra comunidade universitária, para isso é necessário fazer um agendamento com antecedência mínima de 24 horas, o formulário se encontra da página da biblioteca.
+
+### RU
+
+O Restaurante Universitário já retomou o atendimento presencial à comunidade universitária, é necessário solicitar previamente as refeições, no prazo máximo de até as 14 horas do dia anterior, pelo formulário disponível na página do Facebook. O restaurante opera com 25% de lotação máxima.
+
+### Guardiões da saúde e vigilância epidemiológica
+
+O aplicativo Guardiões da Saúde vai ser uma ferramenta para a vigilância epidemiológica nos Campus da UFSCar manter os dados sobre a Covid 19 na universidade sempre atualizados. A utilização do aplicativo é essencial para todos os membros da comunidade UFSCar, mesmo que não estejam em atividades presenciais. Baixem nas lojas de aplicativos!
+
+### Medidas de biossegurança
+
+As medidas de biossegurança no ensino presencial serão:
+
+*   Uso correto de máscaras cirúrgicas(de preferência PFF2/K95)
+*   Distanciamento físico
+*   Frequente higienização das mãos com álcool em gel
+*   Estar com esquema vacinal completo
+*   Uso do aplicativo Guardiões da Saúde
+*   manter espaços ventilados
+
+### Mais informações
+
+[Plano de enfrentamento à pandemia da UFSCar](https://www.vencendoacovid19.ufscar.br/news/perguntas-e-respostas)
+
+## Convivência e respeito à diversidade
+
+Entrar na faculdade pode estourar uma bolha, mas só estourando você expande os horizontes.  
+  
+Viver na faculdade é entender que existem formas distintas de expressar seu gênero, sexualidade, etnia e crenças religiosas. Para alguns, a diferença pode provocar medo e estranhamento: a divergência nos faz questionar o que somos e o que acreditamos. Não coincidentemente, essas novas identidades costumam ser pertencentes a grupos marginalizados na sociedade, como indivíduos LGBT+, pessoas de etnia não-brancas, praticantes de religiões não-cristãs, neuro divergentes, pessoas com deficiência, entre outros. Notar essas nuances e questionar o estado da sociedade em que vivemos é uma experiência que demanda senso crítico e leva tempo.  
+  
+A realidade é que vivemos num país miscigenado e em que o racismo é institucionalizado. Dizemos que homens e mulheres possuem direitos iguais, mas a desigualdade de gênero, assédio sexual e violência de gênero fazem parte da vida da maioria das mulheres brasileiras.  
+  
+O casamento entre pessoas homoafetivas somente foi reconhecido pelo Supremo Tribunal Federal em 2011, há um pouco mais de 10 anos.  
+  
+Por visualizar essas injustiças e muitas outras acontecendo, o movimento estudantil se reúne em meio a tantas diferenças para lutar pelo bem comum. Todos temos direitos básicos que deveriam ser respeitados.  
+  
+Além disso, é possível encontrar acolhimento de pessoas parecidas na comunidade universitária. Existem grupos de pesquisa, culturais e sociais para trocar experiências e desenvolver-se pessoalmente e profissionalmente.  
+  
+Enfim, viver a diversidade acrescenta enormemente na formação de cidadãos tolerantes e pessoas mais maduras. E esperamos que você, bixo, nos ajude a construir uma comunidade mais inclusiva e respeitosa.  
+  
+Também esperamos que você seja acolhido pelos veteranos e por si mesmo, respeitando seu processo de adaptação.  
+  
+Que você tenha uma boa experiência na faculdade!
+
+## Onde morar
+
+Para ajudar os alunos que estão em busca de moradia em São Carlos, fizemos uma listagem dos bairros que os universitários costumam morar e alguns pontos positivos e negativos.  
+  
+Lembrando que alguns locais próximos à Ufscar não possuem ônibus diretamente para a universidade, ou seja, é possível que você tenha que ir caminhando, de bicicleta, ou de outra forma até o departamento. A entrada da área Sul até o DC é em torno de 1,6 a 1,9km dependendo do trajeto, além do deslocamento de sua casa até a portaria.
+
+### Perto da UFSCar
+
+#### Vila Celina e Vila Marina
+
+Pontos positivos:
+
+*   Perto da área sul da UFSCar;
+*   Bastante movimentado durante os horários do RU e início/fim de aulas;
+*   Alguns bares por perto.
+
+Negativos:
+
+*   Relativamente longe do centro;
+*   Pode não haver ônibus diretamente para a ufscar.
+
+#### Jockey Clube
+
+Pontos positivos:
+
+*   Perto da área norte da UFSCar e do Departamento de Computação(DC).
+
+Negativos:
+
+*   Muito distante do centro e do resto da cidade;
+*   Portão da área norte da UFSCar fecha 20h para carros.
+
+### Vila Brasília, R. Antonio Blanco
+
+Pontos positivos:
+
+*   Rua Antonio Blanco possui vasto comércio por perto como sorveteria, lanchonetes, pizzarias, farmácias, mercados, hortifruti, etc
+*   Próximo a área sul da UFSCar;
+*   Perto do posto de saúde (UBS São José).
+
+Negativos:
+
+*   Relativamente longe do centro;
+*   Pode não haver ônibus diretamente para a ufscar.
+
+### Área da rodoviária e USP
+
+#### Cidade Jardim
+
+Pontos positivos:
+
+*   Perto de bares, repúblicas, mercados, farmácias, brechós, lanchonetes, bares e muitos outros estabelecimentos ou festas.
+*   Alta concentração de universitários nas proximidades.
+
+Negativos:
+
+*   Pode ser mais perigoso em questão de furtos.
+
+#### Jardim Lutfalla (próximo à usp), Jardim Macarengo (mais próximo ao centro e rodoviária)
+
+Pontos positivos:
+
+*   Perto de muitos lugares como mercado, lanchonetes, sorveterias, academias, bares, repúblicas(e festas), USP e rodoviária;
+*   Alta concentração de universitários nas proximidades;
+*   Vários pontos de ônibus e a própria rodoviária, que facilita a locomoção pela cidade.
+
+Negativos:
+
+*   Avenidas são muito movimentadas. Pode ser ruim devido ao barulho e trânsito;
+*   Entrada da Matemática - USP é apontada como uma região perigosa.
+
+#### Parque do Kartódromo
+
+Pontos positivos:
+
+*   Perto da USP, de feiras, mercados, áreas de realização de exercícios físicos, repúblicas e bares.
+
+Negativos:
+
+*   Pode ser mais perigoso, possui casos de um homem perseguindo mulheres no parque;
+*   Não é tão próximo do centro nem da ufscar.
+
+## Como se locomover
+
+Andar de ônibus em São Carlos não é uma tarefa complicada. Se você não tiver outro meio de transporte, com certeza irá lidar com essa jornada diária que é ir para a nossa querida federal.  
+  
+A passagem de ônibus custará R$4,50. Para conseguir o cartão estudantil que te dá direito à meia passagem, você deve ir à central da BusFácil - Av. São Carlos, 1781, Centro, munido do atestado de matrícula emitido no SIGA, cópia do RG e comprovante de residência de São Carlos. No início dos semestres, principalmente com a chegada dos caloures, o lugar fica bastante cheio, então vá com expectativa de esperar mais de uma hora na fila.  
+  
+O Terminal Rodoviário de São Carlos é o principal ponto para os ônibus que vão para a UFSCar. O ponto de ônibus, ou Embarque Urbano, se localiza na parte de baixo da rodoviária, na Rua César Ricomi. Há uma cobertura azul e o ponto é dividido em duas seções: o lado mais próximo do Jaú, que leva ao centro e outras localidades, e o lado mais distante, onde passam os ônibus que levam até o campus (mas não somente).  
+  
+Há três trajetos de ônibus que levam até a UFSCar: UFSCar Sul, cujo destino final é o ponto de ônibus da Área Sul; UFSCar Norte, que leva até a Área Norte, passando pela Biblioteca Comunitária (BCo); e UFSCar USE, que também vai até a Área Norte, porém passa pela Unidade Saúde Escola (USE).  
+  
+Para esses dois últimos caminhos, há pontos em comum, como a BCo e o AT5, embora seja melhor pegar o UFSCar USE para ir até o AT9 ou o Departamento de Computação, por exemplo.  
+  
+Os ônibus começam a circular às 05:30 e param por volta das 23:30. A partir das 07:20 a Rodoviária começa a encher de estudantes e os ônibus saem cheios, mas não é nenhum metrô de São Paulo em horário de pico. Além disso, nesse período entre 07h e 08h os ônibus são mais frequentes, diferentemente do período entre 09h e 10h, então tome cuidado!  
+  
+A seguir estão todas as linhas que você pode pegar para ir/voltar da UFSCar:
+
+*   01 – UFSCar Norte / Pacaembu Ônibus que vem/vai para o centro da cidade. Geralmente passa pelo ponto do AT5 a hora e 15 e hora e 45. É o queridinho de quem mora mais para o centro. Possui horário diferenciado nos finais de semana.
+*   53 – Jockey Clube / Astolpho Sai do Astolpho como Jockey Clube, passa pela Rodoviária, vai até o USE e então vai para o Jockey. Faz o caminho inverso saindo do Jockey, mas como Astolpho. Não opera nos finais de semana.
+*   64 – UFSCar USE / Estação Norte Sai da Rodoviária e vai até o USE, e volta pela BCo até a rodoviária.
+*   64 – IFSP via UFSCar Norte Vai da Rodoviária até o IFSP, passando pela BCo, pela rua detrás do Departamento da Engenharia de Materiais e pelo USE.
+*   03 – UFSCar Sul / Azulville Vai até o portão Sul da UFSCar. Opera nos finais de semana e feriados.
+
+Para informações mais detalhadas e descobrir mais trajetos, existem 2 aplicativos muito bons que ajudam muito nisso: [CittaMobi](https://www.cittamobi.com.br/home/) e [Moovit](https://moovitapp.com).
+
+## Auxílio permanência
+
+### Moradia
+
+A bolsa moradia é dividida em duas modalidades:
+
+*   Vaga: uma vaga no alojamento estudantil da universidade, composto por apartamentos mobiliados que comportam 5 ou 7 pessoas a depender da estrutura.
+*   Moradia Espécie: Auxílio no valor de R$350,00 para gastos com aluguel. No caso de mães e pais com filhos de até 5 anos e 11 meses, acrescenta-se a este benefício o valor de R$200,00. Este tipo de bolsa, para calouras e calouros, é ofertada apenas para casos em que não há mais vagas na moradia interna.
+
+### Alimentação
+
+O Auxílio alimentação é concedido junto ao benefício de moradia, independente da categoria. O estudante beneficiado pode fazer todas as refeições diárias no Restaurante Universitário gratuitamente. O RU oferece almoço, jantar e café da manhã, porém está em processo de aprovação uma bolsa no valor de R$140 mensais para substituir o café da manhã).
+
+### Quem pode concorrer às bolsas?
+
+Toda e qualquer aluna ou aluno que estiver em sua primeira graduação E que possuir renda per capita menor ou igual a 1 e 1/2 salários mínimos. Estes são os únicos critérios que causam o indeferimento imediato da avaliação, ou seja, a desclassificação. Cumprir esses dois requisitos NÃO significa que você terá as bolsas, porém já meio que quase garante.
+
+### Preciso de lugar pra ficar urgente!
+
+Caso você seja de outro estado e precise URGENTE se mudar para moradia, você pode solicitar a moradia emergencial. A universidade te aloja por um mês até você correr atrás da papelada ou arranjar um lugar para morar. Se você é de SP mesmo o que resta é pedir abrigo pros veteranos pq infelizmente esse recurso é só pra quem é de outro estado.
+
+### Como é a moradia?
+
+Você vai dividir um quarto com mais uma ou duas pessoas a depender do ap que você for. O ap é todo mobiliado com os itens necessários (geladeira, fogão, cama com colchão, armário de roupas, bancada de estudos, etc) e caso você tenha sorte as pessoas do seu ap podem ter ainda mais coisas. Tem também uma lavanderia comunitária pra você lavar suas roupas e uma sala de estudos que também pode ser usada para atividades como reuniões, cineminhas e coisas afins.  
+  
+O ambiente é super agradável quando você mora com pessoas queridas mas se tiver tendo problemas com a convivência não hesite em chamar os órgãos responsáveis por isso.  
+  
+O DeSS, Departamento de Serviço Social é quem cuida do acolhimento das pessoas novas e também trata esses possíveis conflitos.  
+  
+Tem também a SeM, que é a Seção de Moradia, e é onde você vai atrás de tudo que for relacionado a infraestrutura do alojamento (desde a lâmpada queimada até a sua encomenda do aliexpress que chegou antes de você se formar).
+
+## Bancos físicos e digitais
+
+Além das opções tradicionais, muitos estudantes optam por utilizar bancos virtuais, principalmente pelas políticas de taxa zero para criar e manter uma conta.  
+  
+Hoje em dia é possível receber suas bolsas estudantis através de bancos virtuais. Porém uma observação importante é que na Ufscar não existem caixas 24h, ou seja, o lugar mais próximo para sacar dinheiro físico seria o Carrefour (não é tão próximo).  
+  
+Os principais bancos brasileiros virtuais são:
+
+*   Nubank
+*   Next
+*   Inter
+*   C6 Bank
+*   PagBank (PagSeguro)
+
+## Cursos BCC e EnC
+
+### Ciência da Computação
+
+O curso de Ciência da Computação visa desenvolver uma base sólida para que o graduando esteja preparado para se aprofundar em qualquer área da computação, tanto para carreira acadêmica quanto para o mercado de trabalho.  
+  
+Até o 4 semestre as matérias obrigatórias de matemática, software e hardware visam construir uma base sobre os conceitos primordiais à computação, para que então, a partir do 5º semestre, o graduando escolha entre 9 matérias de trilhas das 10 trilhas oferecidas, e possa se aprofundar e se especializar nas áreas de interesse.  
+  
+As trilhas são: Engenharia de Software, Aprendizado de Máquina, Banco de Dados, Processamento Digital de Imagens e Visão Computacional, Arquitetura de Computadores,Tratamento e Visualização de Dados, Sistema Embarcados, Programação de Alto Desempenho, Programação Avançada e Desenvolvimento Web e Móvel.
+
+[![Diagrama das disciplinas do BCC](imagens/gradeBCC.svg)](/imagens/gradeBCC.svg)
+
+Para saber mais, acesse o [Projeto Pedagógico](https://www.prograd.ufscar.br/cursos/cursos-oferecidos-1/ciencia-da-computacao/PPCBCC_2019.pdf)
+
+### Engenharia da Computação
+
+O curso de Engenharia de Computação tem por objetivo formar um profissional capaz de encontrar soluções integrando hardware e software, bem como seus mecanismos de comunicação em redes e de interfaces com outras máquinas, podendo fazer desde o projeto até a sua implementação.  
+  
+O engenheiro de computação está apto a desenvolver e aplicar as tecnologias de informação novas e pré-existentes nas áres de redes de computadores, sistemas distribuídos,simulação, sistemas de automação, inteligência artificial, engenharia de software, banco de dados, automação de fluxos de trabalhos, sistemas digitais, análise e processamento de sinais e imagens e à criação de inúmeros produtos e sistemas computacionais, embarcados ou não, para as mais diversas aplicações e necessidades.  
+  
+Nosso curso é estruturado em 10 semestres (mas tudo bem demorar mais do que isso para se formar), sendo que durante a graduação devemos passar por disciplinas optativas e eletivas, além da grade padrão. Os primeiros 4 semestres incluem, além da computação, disciplinas dos departamentos de matemática e física. Outro aspecto muito importante da grade é seu TCC (trabalho de conclusão de curso) e suas horas de estágio obrigatório, que serão fundamentais para ter experiências diretas com o mercado da computação.
+
+## Disciplinas obrigatórias, optativas e eletivas
+
+Existem 3 tipos de disciplinas. As disciplinas obrigatórias são aquelas que você deve completar para conseguir prosseguir na graduação e se formar. Por exemplo, Construção de Algoritmos e Programação (CAP) é uma disciplina obrigatória para ambos os cursos do Departamento de Computação, e todos devem ser aprovados nela para prosseguir no curso.  
+  
+As disciplinas eletivas são as que não fazem parte da grade curricular do curso. É possível cursar disciplinas de qualquer curso da UFSCar, e o número de créditos de eletivas obrigatórios também depende do curso, podendo ser zero em alguns casos.  
+  
+As disciplinas optativas são escolhidas pelo próprio aluno e você deve completar uma quantidade de créditos desse tipo de disciplina, a depender do curso. Elas diferem das eletivas pois quando se deve cursar uma disciplina optativa deve-se escolher entre as opções listadas no projeto pedagógico do seu curso. Quando você estiver em um perfil onde haja uma eletiva a ser cursada as opções disponíveis lhe serão exibidas no espaço de inscrição de matérias no sistema SIGA.  
+  
+O curso de BCC prevê a realização de uma disciplina optativa de humanas no 3º semestre e 9 optativas de especialização distribuídas dos semestres 5 a 7, além da realização de uma eletiva em cada semestre do 5º ao 7º.  
+  
+Na EnC é esperada a realização de uma eletiva no 6º semestre e uma no 7º semestre, além de uma optativa de especialização a cada semestre no 7º, 8º e 9º.
+
+## Perfis e disciplinas
+
+Na UFSCar, os semestres são chamados de perfis. Ao entrar na Universidade, você estará no perfil 1, e estará cursando as disciplinas correspondentes a ele sem ter a opção de montar sua grade de matéiras.  
+  
+No período de renovação de matrícula, o seu perfil avança e você poderá se inscrever em disciplinas. Caso você tenha passado nas matérias necessárias para se inscrever em uma dada matéria e esteja no perfil dela, será pré-deferido, garantindo sua vaga com prioridade máxima. Existem também matérias sem nenhum pré requisito, nestas você estará pré aprovado se estiver no perfil em que elas são cursadas. Já se estiver fora do perfil ou se a disciplina não fizer parte de sua matriz curricular, deverá se inscrever manualmente nela e então 'concorrerá' a uma vaga com prioridade diferente.  
+  
+Os semestres também podem ser divididos em dois tipos: pares e ímpares. Assim, o primeiro semestre do ano é ímpar, e o segundo, par. Há disciplinas que são ofertadas em qualquer semestre, mas muitas são ofertadas em apenas um dos dois, então tome cuidado. Fique atento no seu e-mail para a pesquisa de intenção de matérias e para a lista de matérias a serem ofertadas naquele semestre.  
+  
+Os créditos são a quantidade de horas de aula por semana. Ao aprovar uma disciplina, os créditos desta são contabilizados no seu histórico. Na Engenharia de Computação, por exemplo, há um marco de 200 créditos cursados para poder fazer o estágio obrigatório. Na ciência da computação a exigência para estagiar a exigência são 160 créditos cursados.  
+  
+Vale lembrar que cada crédito de uma matéira equivale a 1 hora semanal de aula e 15 horas por semestre. Assim sendo, as matérias de 4 créditos por exemplo terão até 4 horas de aula por semana (geralmente duas aulas de 2 horas) e contarão 60 horas ao final de um semestre.
+
+## Aprovação, Reprovação e Trancamento
+
+Quando você cursa qualquer disciplina, ela terá quatro situações finais possíveis: aprovada, recuperação, reprovada ou trancada. O mais importante a se saber é que para sua aprovação, você deve terminar com uma nota final maior ou igual a 6.0 e com frequência acima ou igual a 75%.  
+  
+Caso você termine com nota entre 5.0 e 5.9 você irá para a recuperação, se possuir frequência acima ou igual a 75%. De recuperação, você quebra os requisitos de outras matérias, isto é, se ficou em recuperação em Cálculo Diferencial e Integral você ainda poderá puxar Cálculo 2 ou Cálculo Diferencial e Series no semestre seguinte. A recuperação ocorre no início do semestre seguinte, em data combinada pelo professor com os alunos.  
+  
+Caso você não atinja a média esperada ou não tenha a frequência mínima, você será reprovado. Ao ser reprovado, você não poderá puxar nenhuma matéria que tenha como requisito aquela que você reprovou e seu IRA (descrito nos próximos tópicos) cairá. Não só isso, reprovar por falta causa um impacto maior ao seu IRA do que reprovar por nota.  
+  
+Caso decida desistir de uma disciplina nos 60 primeiros dias do semestre (aproximadamente), você pode trancar a disciplina. Ao trancar a disciplina, não poderá puxar nenhuma matéria que tenha como requisito aquela que você trancou e seu IRA irá cair, porém menos do que se reprovasse por nota ou falta. Trancar uma matéria impede que haja uma reprovação no seu histórico, o que pode ser importante para bolsas e processos seletivos.  
+  
+CUIDADO, ao não ser aprovado em 4 ou mais créditos no primeiro semestre ou em não ser aprovado em pelo menos 8 créditos em dois semestres seguidos resultará em um jubilamento, ou a perda do vínculo entre você e a UFSCar. Caso isso aconteça, você poderá tentar algum recurso para justificar e reaver a sua vaga.
+
+## Índice de Rendimento Acadêmico (IRA)
+
+O IRA, Índice de Rendimento Acadêmico, é o principal valor para ranqueamento na UFSCar. Este número é utilizado como um dos critérios de desempate na hora de solicitar inscrição nas matérias, para alguns processos seletivos como iniciação científica, grupos de extensão, intercâmbios e outras tarefas.  
+  
+O seu IRA vale 1000 \* Sua média ponderada \* (2 - a razão entre créditos reprovados e os créditos totais - 2\*(a razão entre créditos trancados e os créditos totais)).  
+  
+Não se preocupe se você reprovar em alguma matéria nos primeiros semestres do curso, o baque no seu IRA será grande, mas você não cursou muitas matérias ainda. A tendência é que seu IRA estabilize e um valor que te trará alguma segurança para requerir matérias gira em torno de 12.000.
+
+## Língua Inglesa na computação
+
+Com certeza todos nós já ouvimos que na era da informação é praticamente necessário ter o inglês, a "língua universal", como segunda língua. Assim, no caso das áreas da computação, essa necessidade é ainda maior, não só para vagas de emprego no futuro, mas também durante seu processo de aprendizado na graduação. Muitos materiais relacionados à programação, descrição de hardware, sistemas operacionais, etc são mais abundantes quando buscados em inglês, e você se verá buscando esses materiais complementares frequentemente.  
+  
+Mas não se desespere caso não possua conhecimento da língua inglesa, é muito comum entrar na universidade sem saber. Para isso, existem programas como o IsF (Idiomas sem Fronteiras) que é voltado para universitários brasileiros que queiram aprender outras línguas (não há apenas inglês nas opções!). Dentre as capacitações do IsF, existem cursos presenciais e on-line para aprender alemão, espanhol, francês, italiano, japonês e, obviamente, inglês, onde são aceitos todos os níveis de conhecimento, do mais básico até o avançado. Em nossa querida universidade, são disponibilizados os cursos de inglês, espanhol e português (nesse caso para estrangeiros). Para mais informações ou para se inscrever, acesse: [Idioma Sem Fronteiras](https://isf.mec.gov.br).  
+  
+Além disso, há o Instituto de Línguas na UFScar, que oferta cursos de línguas como Inglês, Espanhol, Português para estrangeiros e Libras esporadicamente. acesse: [Instituto de Línguas](https://www.institutodelinguas.ufscar.br/pt-br).
+
+## Extensão
+
+### A Universidade Além das Matérias
+
+É difícil encontrar um ingressante da universidade, principalmente aqueles que vem diretamente do ensino médio, que conheça todas as possibilidades que ela pode oferecer. Acredita-se que vamos entrar em um curso, fazer nossas matérias e eventualmente nos formar, porém essa visão é grandemente simplista e faz crer que pessoas diferentes não podem ter formações singulares dentro de um mesmo curso. Os três pilares da universidade pública brasileira são o ensino, a pesquisa e a extensão portanto a sua formação terá mais aspectos que apenas matérias cursadas, vale lembrar que tanto para Engenharia da Computação quanto para Ciência da Computação são necessárias horas de formação complementar para nos formarmos (330 horas para BCC e 60 horas para EnC) e essas horas não são conseguidas por meio de matérias, mas sim de ações de extensão.
+
+### Extensão universitária
+
+A extensão universitária contempla todas ações feitas fora de sala de aula que trazem vivências, conhecimento e geram algum trabalho da faculdade para a sociedade e da sociedade para a faculdade. Ela se dá grandemente pela forma de grupos de extensão, estes grupos são geralmente vinculados a um programa de extensão, mas também é possível se desenvolver um projeto de extensão independente de programas. A título de exemplo podem ser citados muitos grupos e trabalhos:
+
+*   Empresas Júnior
+*   Grupos de estudos
+*   Grupos filantrópicos
+*   Grupos dedicados a competições
+*   Grupos que promovem eventos
+
+Lembre-se também que você pode integrar grupos que não são do seu departamento ou da sua área de estudos. Você ainda receberá horas complementares e essa pode ser uma forma de descobrir mais sobre você e sobre a formação que você quer construir. Existe também a opção de participar de grupos e projetos de extensão em outras universidades seja presencialmente (provavelmente na USP) ou remotamente, contanto que haja um certificado de participação suas horas de trabalho serão computadas.
+
+## ACIEPEs
+
+Dentro da UFSCar existe um tipo de matéria chamada ACIEPE. Este termo significa Atividade Curricular de Integração Ensino, Pesquisa e Extensão e é um nome bem auto explicativo. Essas matérias não são obrigatórias a nenhuma grade e contam como matéria eletiva ou podem render 60 horas de formação (com o máximo de 3 ACIEPEs aproveitadas como horas). Os métodos de avaliação e de ensino nas ACIEPEs são geralmente diferentes de matérias tradicionais, realizar uma ACIEPE é uma experiência ímpar. Seus temas são os mais variados e a seguir listamos alguns:
+
+*   Introdução à Computação Científica
+*   Transformando Crises em Oportunidades: Empreendedorismo para Enfrentamento da COVID-19
+*   Introdução às Cidades Inteligentes: Conceitos, Processos e Sistemas
+*   Análise de Dados Sociais com Python e R - Dpto de Ciências Sociais
+*   Noções Básicas de Primeiros Socorros
+*   Entendendo a Bioquímica do Vírus SARS-CoV-2
+*   Introdução à Psicanálise Freudiana
+*   Prática de Apresentação em Público
+
+A inscrição em ACIPEs é realizada durante o período de ajuste, logo antes de começar o semestre. Para saber quais ACIEPEs serão ofertadas ou foram ofertadas em um dado semestre basta acessar [ACIEPEs](https://www.proex.ufscar.br/aciepes)
+
+## CAEnC e CACiC
+
+Ambos os cursos da computação possuem um Centro Acadêmico, o CACiC (Centro Acadêmico da Ciência da Computação) e o CAEnC (Centro Acadêmico da Engenharia de Computação). Mas o que é um Centro Acadêmico?  
+  
+O CA é uma organização estudantil sem fins lucrativos que tem como objetivo representar os alunos na universidade e organizar atividades que beneficiem os estudantes  
+  
+Assim, dentre as funções de um CA estão inclusos, mas não limitados:
+
+*   Recepção dos Calouros;
+*   Confecção de produtos do curso;
+*   Organizar eventos de integração (festas, rodas de conversa, campeonatos);
+*   Organizar mobilizações para reivindicar os direitos dos estudantes;
+*   Dar feedback ao departamento em relação ao ensino dos professores.
+
+Os CA funcionam com base de chapas anuais que se candidatam e são eleitas pelos alunos do curso, qualquer um regularmente matriculado pode participar (isso inclui você calouro!).  
+  
+Esse manual originalmente foi criado por alunos da EnC e a versão atual foi atualizada por uma união entre os CA da computação (todos os créditos se encontram no fim do manual).
+
+## Iniciação Científica
+
+A iniciação científica é o trabalho pelo qual um aluno aprende a buscar e produzir o conhecimento científico. Seu trabalho pode culminar na produção de um artigo científico, mas isso não é uma regra. Realizar uma IC é uma forma de conhecer melhor o universo da pesquisa e de descobrir se você quer seguir o caminho de pesquisador.  
+  
+Diferente das outras formas de extensão, não existe um processo seletivo ou de inscrição para realizar uma iniciação científica, basta que você converse com um professor em busca de tomar parte em um projeto já existente ou de escrever o seu próprio projeto. Uma forma de fazer isso é conhecer os professores e entrar em contato com eles e você pode fazer isso pelo próprio site do departamento, lá estão listados todos os laboratórios e professores, além de suas áreas de atuação. acesse: [Laboratórios](https://site.dc.ufscar.br/laboratorios)
+
+## Projeto Integrador Extensionista
+
+Os PIEs são uma forma de extensão universitária exclusiva do Departamento de Computação. Estes projetos são uma forma incrível de se conseguir experiência na área da computação e até mesmo de agregar ao seu portfólio profissional e acadêmico. Os PIEs podem ter parcerias com empresas ou instituições e tem como objetivo disponibilizar um produto ou serviço de computação para a sociedade. Eles rendem 210 horas complementares para alunos da Ciência da Computação e 60 horas para alunos da Engenharia da Computação e duram um ano. Alguns exemplos de PIEs desenvolvidos no DC são:
+
+*   Parceria entre UFSCar e Secretaria Municipal de Segurança Pública de São Carlos para treinamentos e desenvolvimentos tecnológicos.
+*   Desenvolvimento de um sistema para extração de atributos de produtos a venda em sites de e-commerce
+*   Desenvolvimento de um sistema de controle para acesso de locais públicos.
+
+Para mais informações sobre este tipo de projeto acesse: [PIEs](https://site.dc.ufscar.br/pies)
+
+## Sobre o Manual do Bixo
+
+Este trabalho se debruçou sobre um antigo projeto feito por um grupo de graduandos da engenharia da computação, [GuiaEnc](https://jonathangouvea.github.io/GuiaEnC/#sec_5), a nova versão teve como colaboradores:
