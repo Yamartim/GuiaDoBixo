@@ -8,7 +8,7 @@ Muitos de vocês estão entrando pela primeira vez numa universidade e imaginamo
   
 O início da graduação é, geralmente, um momento de transição para todos. Até para quem entrou no curso pelo sistema de transferência interna ou externa, os próximos meses da sua vida trarão momentos desafiadores e compensatórios. Para os estudantes que finalizaram o Ensino Médio recentemente e estão indo morar fora as diferenças socioculturais serão destacáveis. Imagine sair da sua cidade(ou até de outro estado), da casa de seus pais, e se mudar para uma cidade universitária que recebe estudantes de todo o país(e de outros lugares do mundo). A Ufscar possui no total 64 cursos de graduação e cerca de 3 mil estudantes entram pelo Sisu a cada ano, ou seja, é muita gente! Sem contar os estudantes da pós-graduação e da USP. O resultado disso é a presença de pessoas completamente diferentes e que convivem em espaços comuns.
 
-## Nova vida
+### Nova vida
 
 Mudar de ciclo social é desafiador, mas proporciona novas conexões com pessoas incríveis, possibilitando conhecer partes de si mesmo que não haviam sido observadas antes. Você poderá participar das festas universitárias, ficar em casa em sua companhia ou com seus amigos, ou fazer todas essas opções. Experimentar coisas novas faz parte de entender do que gostamos ou não, mas não podemos deixar de respeitar nossos limites. Você NÃO é obrigado a beber se não quiser ou a realizar nenhum trote que seus veteranos mandarem. Você não é obrigado a ficar com ninguém, nem fazer tais ações para não se sentir excluído de algum grupo.  
   
@@ -26,40 +26,40 @@ E por último mas não menos importante, caso você não esteja se sentindo bem 
 
 Siglas fazem parte do dialeto comum do universitario na UFSCar, e inserimos um glossário aqui com as siglas mais frequentes que você vai ouvir!
 
-*   AT Prédio de aula teórica
-*   AVA Ambiente Virtual de Aprendizagem
-*   BCo Biblioteca Comunitária (São Carlos)
-*   CCET Centro de Ciências Exatas e Tecnológicas
-*   CA Centro Acadêmico
-*   CACic Centro Acadêmico de Ciencia da Computação
-*   CAENC Centro Acadêmico de Engenharia da Computação
-*   CATI Empresa Júnior do Departamento de Computação da UFSCar.
-*   DC Departamento de Computação
-*   DM Departamento de Matemática
-*   DF Departamento de Fisica
-*   DCE Diretório Central dos Estudantes
-*   DeAE Departamento de Assistência ao Estudante
-*   DeAS Departamento de Atenção à Saúde
-*   DIGRA Divisão de Gestão e Registro Acadêmico
-*   ENPE Ensino Não Presencial Emergencial
-*   IRA Índice de Rendimento Acadêmico.
-*   LIG Laboratório de Informática de Graduação
-*   NuLEEn Núcleo de Laboratórios de Ensino à Engenharia
-*   PAC Processo de Avaliação Complementar
-*   PET Programa de Educação Tutorial
-*   PPC Projeto Pedagógico Curricular
-*   ProACE Pró-Reitoria de Assuntos Comunitários e Estudantis
-*   ProGrad Pró-Reitoria de Graduação
-*   PU Prefeitura Universitaria
-*   RA Registro Acadêmico, é o seu Número UFSCar
-*   RU Restaurante Universitário
-*   SAGUI Sistema de Apoio à Gestão Universitária Integrada
-*   SAADE Secretaria geral de Ações Afirmativas, Diversidade e Equidade
-    
-*   SECOMP Semana da Computação UFSCar
-*   Sin Secretaria de Informatica
-*   SIGA Sistema Integrado de Gestão Acadêmica
-*   USE Unidade Saúde Escola
+*   <span class="text-destaque">AT</span> Prédio de aula teórica
+*   <span class="text-destaque">AVA</span> Ambiente Virtual de Aprendizagem
+*   <span class="text-destaque">BCo</span> Biblioteca Comunitária (São Carlos)
+*   <span class="text-destaque">CCET</span> Centro de Ciências Exatas e Tecnológicas
+*   <span class="text-destaque">CA</span> Centro Acadêmico
+*   <span class="text-destaque">CACic</span> Centro Acadêmico de Ciencia da Computação
+*   <span class="text-destaque">CAENC</span> Centro Acadêmico de Engenharia da Computação
+*   <span class="text-destaque">CATI</span> Empresa Júnior do Departamento de Computação da UFSCar.
+*   <span class="text-destaque">DC</span> Departamento de Computação
+*   <span class="text-destaque">DM</span> Departamento de Matemática
+*   <span class="text-destaque">DF</span> Departamento de Fisica
+*   <span class="text-destaque">DCE</span> Diretório Central dos Estudantes
+*   <span class="text-destaque">DeAE</span> Departamento de Assistência ao Estudante
+*   <span class="text-destaque">DeAS</span> Departamento de Atenção à Saúde
+*   <span class="text-destaque">DIGRA</span> Divisão de Gestão e Registro Acadêmico
+*   <span class="text-destaque">ENPE</span> Ensino Não Presencial Emergencial
+*   <span class="text-destaque">IRA</span> Índice de Rendimento Acadêmico.
+*   <span class="text-destaque">LIG</span> Laboratório de Informática de Graduação
+*   <span class="text-destaque">NuLEEn</span> Núcleo de Laboratórios de Ensino à Engenharia
+*   <span class="text-destaque">PAC</span> Processo de Avaliação Complementar
+*   <span class="text-destaque">PET</span> Programa de Educação Tutorial
+*   <span class="text-destaque">PPC</span> Projeto Pedagógico Curricular
+*   <span class="text-destaque">ProACE</span> Pró-Reitoria de Assuntos Comunitários e Estudantis
+*   <span class="text-destaque">ProGrad</span> Pró-Reitoria de Graduação
+*   <span class="text-destaque">PU</span> Prefeitura Universitaria
+*   <span class="text-destaque">RA</span> Registro Acadêmico, é o seu Número UFSCar
+*   <span class="text-destaque">RU</span> Restaurante Universitário
+*   <span class="text-destaque">SAGUI</span> Sistema de Apoio à Gestão Universitária Integrada
+*   <span class="text-destaque">SAADE</span> Secretaria geral de Ações Afirmativas, Diversidade e Equidade
+
+*   <span class="text-destaque">SECOMP</span> Semana da Computação UFSCar
+*   <span class="text-destaque">Sin</span> Secretaria de Informatica
+*   <span class="text-destaque">SIGA</span> Sistema Integrado de Gestão Acadêmica
+*   <span class="text-destaque">USE</span> Unidade Saúde Escola
 
 ## Retorno ao presencial
 
@@ -220,11 +220,11 @@ Os ônibus começam a circular às 05:30 e param por volta das 23:30. A partir d
   
 A seguir estão todas as linhas que você pode pegar para ir/voltar da UFSCar:
 
-*   01 – UFSCar Norte / Pacaembu Ônibus que vem/vai para o centro da cidade. Geralmente passa pelo ponto do AT5 a hora e 15 e hora e 45. É o queridinho de quem mora mais para o centro. Possui horário diferenciado nos finais de semana.
-*   53 – Jockey Clube / Astolpho Sai do Astolpho como Jockey Clube, passa pela Rodoviária, vai até o USE e então vai para o Jockey. Faz o caminho inverso saindo do Jockey, mas como Astolpho. Não opera nos finais de semana.
-*   64 – UFSCar USE / Estação Norte Sai da Rodoviária e vai até o USE, e volta pela BCo até a rodoviária.
-*   64 – IFSP via UFSCar Norte Vai da Rodoviária até o IFSP, passando pela BCo, pela rua detrás do Departamento da Engenharia de Materiais e pelo USE.
-*   03 – UFSCar Sul / Azulville Vai até o portão Sul da UFSCar. Opera nos finais de semana e feriados.
+*   <span class="text-destaque">01 – UFSCar Norte / Pacaembu Ônibus</span> que vem/vai para o centro da cidade. Geralmente passa pelo ponto do AT5 a hora e 15 e hora e 45. É o queridinho de quem mora mais para o centro. Possui horário diferenciado nos finais de semana.
+*   <span class="text-destaque">53 – Jockey Clube / Astolpho</span> Sai do Astolpho como Jockey Clube, passa pela Rodoviária, vai até o USE e então vai para o Jockey. Faz o caminho inverso saindo do Jockey, mas como Astolpho. Não opera nos finais de semana.
+*   <span class="text-destaque">64 – UFSCar USE / Estação Norte</span> Sai da Rodoviária e vai até o USE, e volta pela BCo até a rodoviária.
+*   <span class="text-destaque">64 – IFSP via UFSCar Norte</span> Vai da Rodoviária até o IFSP, passando pela BCo, pela rua detrás do Departamento da Engenharia de Materiais e pelo USE.
+*   <span class="text-destaque">03 – UFSCar Sul / Azulville</span> Vai até o portão Sul da UFSCar. Opera nos finais de semana e feriados.
 
 Para informações mais detalhadas e descobrir mais trajetos, existem 2 aplicativos muito bons que ajudam muito nisso: [CittaMobi](https://www.cittamobi.com.br/home/) e [Moovit](https://moovitapp.com).
 

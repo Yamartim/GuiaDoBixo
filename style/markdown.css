@@ -1,0 +1,57 @@
+
+
+body{
+    color: white;
+    text-align: left;
+}
+
+img{
+    width: 100%;
+}
+
+
+h2{
+    color: #FF975C;
+    margin: 0;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.5em;
+
+}
+
+h3, h4{
+    color: #F0769A;
+    text-align: left;
+    margin: 20px 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h4{
+    font-size: 1.2em;
+}
+
+p{
+    text-align: left;
+    margin: 1em 0;
+}
+
+li{
+    text-align: left;
+}
+
+
+a{
+    color: #F0769A;
+    text-decoration: underline;
+}
+
+ul{
+    margin: 1em;
+}
+
+
+.text-destaque{
+    font-weight: bold;
+    color: #F0769A;
+}

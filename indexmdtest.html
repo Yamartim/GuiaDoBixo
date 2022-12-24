@@ -76,7 +76,13 @@
         
             <main class="main">
 
-                <zero-md src="/guiadobixo.md"></zero-md>
+                <zero-md src="/guiadobixo.md">
+                    <template>
+                        <!-- Load external stylesheets with a `<link rel="stylesheet">` tag -->
+                        <link rel="stylesheet" href="style/reset.css" />
+                        <link rel="stylesheet" href="style/markdown.css" />
+                    </template>
+                </zero-md>
 
                 <div id="colaboradores">
                     <figure class="colaborador">
